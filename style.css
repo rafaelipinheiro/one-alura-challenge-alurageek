@@ -1,0 +1,47 @@
+.bg-color {
+    background-color: #5300C8;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Press Start 2P", system-ui;
+}
+
+.card {
+    margin: 2px;
+    border-width: 4px;
+    border-color: #000;
+    color: #fff;
+}
+
+.card-img {
+    margin-top: 10px;
+    border-width: 4px;
+    border-color: #000;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.top-row {
+    margin-top: 25px;
+}
+
+.btn-blue {
+    background-color: #03318C;
+    color: #fff;
+}
+
+.btn-white {
+    background-color: #fff;
+    color: #03318C;
+}
+
+.border-blue {
+    border-width: 3px;
+    border-color:#03318C;
+    border-radius: 15px;
+    border-style: solid;
+}
+
+.text-blue {
+    color: #03318C;
+}
